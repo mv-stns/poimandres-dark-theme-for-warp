@@ -1,0 +1,25 @@
+# community author: @mv-stns
+# theme name: poimandres dark theme
+accent: "#767d9d" # Accent color for UI elements
+background: "#1c1e28" # Terminal background color
+details: lighter # Whether the theme is lighter or darker.
+foreground: "#e4f0fb" # The foreground color.
+terminal_colors: # Ansi escape colors.
+    bright:
+        black: "#2d3340"
+        blue: "#88ddff"
+        cyan: "#acd8ff"
+        green: "#5ce4c7"
+        magenta: "#f087bd"
+        red: "#f087bd"
+        white: "#ffffff"
+        yellow: "#fff9c2"
+    normal:
+        black: "#2d3340"
+        blue: "#88ddff"
+        cyan: "#acd8ff"
+        green: "#5ce4c7"
+        magenta: "#f087bd"
+        red: "#f087bd"
+        white: "#ffffff"
+        yellow: "#fff9c2"
