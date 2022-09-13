@@ -14,7 +14,7 @@ There's not alot of customization options on warp so feel free to suggest any fi
 
 ### Images
 
-![image](https://res.craft.do/user/full/eed588f8-14f3-1948-ca1a-8fd88fb424a4/doc/A6EDCE0B-B811-46CA-8A77-92DDF4F2BF94/6716BE6B-EC97-4DBE-8185-E4CAC6241B2F_2/WCgy8ThrqAjrSBHZoooxSWv9THqVNiTqzfFgzCHjVpYz/Image.tiff)
+![image](https://media.cleanshot.cloud/media/17166/HZMplBPUzQKdD0nfjSnafmUS7RR9mP8a9mtzpLuL.jpeg?Expires=1663088374&Signature=gtSA8xYpV~cwvVtZLy0zRbZMi0BRaFu95Y7atzRVMwL5PxGXuKocaSnut8Es-dVqdhjj5wJPht-rvc3ne7EPm~8oSp8aF1YhB9x2dJp5QM-UXSDL4fczD6pRN-1scjqeS3OD7z92nvIvsWgwQdDz~2v-B-c79mEXCYGDQTMF1VsFhYjgpn1etZh2n4AhUiJxcZO0R2H6FuxiJ6558UzZsyOv267p5~eIiREzKi3NK69e3e7Ns6H9XGGPekEf4UJJobB8X0SxKt4ZsVo0k0H4oVU5vWAZOGi6HMCuIPod4BCtozT5yHkyFmxcmjRWe~vO2RDChtNnq3DcvdoOQALaVw__&Key-Pair-Id=K269JMAT9ZF4GZ)
 
 ### Installation
 
