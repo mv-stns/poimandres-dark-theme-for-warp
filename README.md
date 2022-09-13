@@ -6,7 +6,7 @@
 
 ## About
 
-I found this theme thankfully at a video of [Theo](https://github.com/TheoBr) and i loved it. I also love customizint my terminal.
+I found this theme thankfully at a video of [Theo](https://github.com/TheoBr) and i loved it. I also love customize my terminal.
 
 Warp does have a similar Theme like poimandres, which is [Fancy Dracula](https://draculatheme.com/) but just a little off. So I decided to create my own poimandres theme for warp.
 
